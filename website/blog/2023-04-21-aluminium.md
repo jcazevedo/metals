@@ -31,8 +31,8 @@ We're happy to announce the release of Metals v0.11.12. This release brings most
 </tbody>
 </table>
 
-For full details: [https://github.com/scalameta/metals/milestone/56?closed=1]
-(https://github.com/scalameta/metals/milestone/56?closed=1)
+For full details:
+[https://github.com/scalameta/metals/milestone/56?closed=1](https://github.com/scalameta/metals/milestone/56?closed=1)
 
 Metals is a language server for Scala that works with VS Code, Vim, Emacs and
 Sublime Text. Metals is developed at the
